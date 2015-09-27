@@ -1,4 +1,4 @@
-# Pandamonium
+# Pandamonium: Pounce's Maze Adventure
 
 I developed this game over a summer at <a href = https://www.makeschool.com/>Make School Bootcamp</a>. Before starting work on Pandamonium, I did not know Objective-C and had been programming for only two years. This was an amazing learning experience, and I'm very proud of the game I developed.
 
