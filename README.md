@@ -5,3 +5,6 @@ I developed this game over a summer at <a href = https://www.makeschool.com/>Mak
 Help Pounce the Red Panda find fruit to eat in the maze, collecting power ups to freeze time, explode walls and teleport along the way!
 
 You can download Pandamonium for free from the iOS app store at http://goo.gl/mgl4vc and check out my website at www.erikadains.com!
+
+
+Pandamonium: Pounce's Maze Adventure is the property of Erika Dains.
